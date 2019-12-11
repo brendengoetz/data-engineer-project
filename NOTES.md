@@ -1,7 +1,7 @@
-#Notes on Process
+# Notes on Process
 
 
-##Assumptions
+## Assumptions
 
 
-##Considerations
+## Considerations
